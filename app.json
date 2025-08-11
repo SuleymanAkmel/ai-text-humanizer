@@ -1,0 +1,12 @@
+
+{
+  "name": "AI Humanizer",
+  "description": "A free AI humanizer with unlimited styles and AI/Human checker.",
+  "repository": "https://github.com/YOUR_USER/ai-humanizer",
+  "env": {
+    "OPENAI_API_KEY": {
+      "description": "Your OpenAI API key",
+      "required": false
+    }
+  }
+}
